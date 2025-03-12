@@ -17,7 +17,7 @@
 ### 📂 Featured Projects
 - 📊 **[Portfolio Website](https://luongdanduy.netlify.app)** - Show casing my skills and projects
 - 🏪 **[E-commerce Platform](https://gitlab.com/swp_3911/ecomerce)** - Developing a comprehensive E-commerce Platform
-- 🛒 **[Online Shopping Website](https://github.com/danduy03/Ecomerce)** - Built Full-Stack an Online Shopping Website using Java, JSP & Servlet and JavaScript
+- 🛒 **[Online Shopping Website](https://github.com/danduy03/Online-Shopping)** - Built Full-Stack an Online Shopping Website using Java, JSP & Servlet and JavaScript
 
 ### 📫 Connect with Me
 - 🌐 Portfolio: [luongdanduy.netlify.app](https://luongdanduy.netlify.app)
